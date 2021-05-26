@@ -2,7 +2,7 @@
 
 <!-- <img src="https://www.pikpng.com/pngl/b/163-1630185_s-o-a-university-siksha-o-anusandhan-university.png" align="right" width="120" height="120"/> -->
 
-# Members Joining Questions
+# Gateway to CWC 
 
 [![](https://img.shields.io/badge/CWC-ITER-gray.svg?style=for-the-badge&colorB=0000f&logo=github)](https://elastic-bose-ed6583.netlify.app/)
 [![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&colorB=00ccff&style=for-the-badge&logo=telegram)](https://t.me/cwcincisive)
@@ -17,6 +17,7 @@
   <li>You are supposed to solve the questions mentioned below and share the GitHub repo in the group itself.</li>
   <li>Within the time period of 7 days from the date of joining the group, you are suggested to upload your solutions.</li>
   <li>Failing the deadline may lead to removal from the group.</li>
+  <li>You need to solve all the 10 question given in the list</li>
 </ol>
 
 <h2>Questions are</h2>
@@ -37,7 +38,7 @@
 
 <b>Vist our <a href="https://elastic-bose-ed6583.netlify.app/">Website</a> to know more about us</b>
 
-### Reach out to us 👓
+### Ways to reach us 👓
 <a href="https://www.linkedin.com/in/coding-wizard-club/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://github.com/CodingWizardITER"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 <a href="https://t.me/cwcincisive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="32px" height="32px"></a>
