@@ -1,7 +1,6 @@
-<img src="https://www.pikpng.com/pngl/b/163-1630185_s-o-a-university-siksha-o-anusandhan-university.png" align="right" width="120" height="120"/>
-
-
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFDuHx-TrxMNg/profile-displayphoto-shrink_200_200/0/1614907425476?e=1627516800&v=beta&t=6j8PxnUIH5UvyKuhwCJ498EiPLUzgu_c_h-HHor8dVc" align="right" width="100" height="100"/>
+
+<!-- <img src="https://www.pikpng.com/pngl/b/163-1630185_s-o-a-university-siksha-o-anusandhan-university.png" align="right" width="120" height="120"/> -->
 
 # Members Joining Questions
 
