@@ -1,5 +1,5 @@
 <img src="https://www.pikpng.com/pngl/b/163-1630185_s-o-a-university-siksha-o-anusandhan-university.png" align="right" width="120" height="120"/>
-<img src="https://instagram.fpat1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/118604503_730349957521292_7483456403450844292_n.jpg?tp=1&_nc_ht=instagram.fpat1-1.fna.fbcdn.net&_nc_ohc=nPS_IOgezfEAX86ekaD&edm=ABfd0MgBAAAA&ccb=7-4&oh=20eee37d8f5b3a0ce86fea308b4e47b9&oe=60B5D0AC&_nc_sid=7bff83" align="right" width="100" height="100"/>
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFDuHx-TrxMNg/profile-displayphoto-shrink_200_200/0/1614907425476?e=1627516800&v=beta&t=6j8PxnUIH5UvyKuhwCJ498EiPLUzgu_c_h-HHor8dVc" align="right" width="100" height="100"/>
 
 # Members Joining Questions
 
