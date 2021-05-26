@@ -1,7 +1,7 @@
 <img src="https://www.pikpng.com/pngl/b/163-1630185_s-o-a-university-siksha-o-anusandhan-university.png" align="right" width="120" height="120"/>
 <img src="https://instagram.fpat1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/118604503_730349957521292_7483456403450844292_n.jpg?tp=1&_nc_ht=instagram.fpat1-1.fna.fbcdn.net&_nc_ohc=nPS_IOgezfEAX86ekaD&edm=ABfd0MgBAAAA&ccb=7-4&oh=20eee37d8f5b3a0ce86fea308b4e47b9&oe=60B5D0AC&_nc_sid=7bff83" align="right" width="100" height="100"/>
 
-# Members-Joining-Questions
+# Members Joining Questions
 
 [![](https://img.shields.io/badge/CWC-ITER-gray.svg?style=for-the-badge&colorB=0000f&logo=github)](https://elastic-bose-ed6583.netlify.app/)
 
