@@ -12,7 +12,7 @@
 
 <ol>
   <li>This Repo contains all the instructions regarding how to join the club.</li>
-  <li>Fisrt of all you are required to <b><a href="https://elastic-bose-ed6583.netlify.app/">Fill the form</a></b> so that your details can be updated in our database.</li>
+  <li>Fisrt of all you are required to <b><a href="http://soaurl.rf.gd/">Fill the form</a></b> so that your details can be updated in our database.</li>
   <li>You are supposed to solve the questions mentioned below and share the GitHub repo in the group itself.</li>
   <li>Within the time period of 7 days from the date of joining the group, you are suggested to upload your solutions.</li>
   <li>Failing the deadline may lead to removal from the group.</li>
